@@ -1,0 +1,4 @@
+Bundle-Name: helloworld
+Bundle-SymbolicName: helloworld
+Bundle-Version: 1.0.0
+Export-Package: helloworld.constants
