@@ -180,7 +180,7 @@ td.ac {
 					<td><button type=reset>Reset</button>
 					<td><button type=button onclick='bmass();'>Submit</button>
 				<tr>
-					<td>Body Mass Index
+					<td>Tahera 
 					<td><input id=bmi class=op onchange="checkFilled();">kg/m2
 				<tr>
 					<td>Normal BMI range
